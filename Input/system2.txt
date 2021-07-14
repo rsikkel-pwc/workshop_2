@@ -1,0 +1,17 @@
+﻿------------------------
+Extracted on: 12-7-2021
+Total records: 10
+Extracted by: Admin
+------------------------
+
+User ID,Account locked date
+rsikkel001,2021/03/12
+elaan001,2021/04/02
+thilfiger001,2021/03/09
+cklein001,2021/03/11
+rsikkel002,2021/03/04
+elaan002,2021/03/03
+cklein002,2200/12/31
+thilfiger002,2200/10/30
+rsikkel003,2200/12/28
+elaan003,2200/12/25
